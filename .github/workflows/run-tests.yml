@@ -1,0 +1,8 @@
+name: Run Tests
+
+on:
+  push:
+    - main
+  pull_request:
+
+jobs:
